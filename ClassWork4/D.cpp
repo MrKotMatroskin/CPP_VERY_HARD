@@ -1,6 +1,4 @@
 #include <iostream>
-#include <utility >
-using std::swap;
 using namespace std;
 void sort(int* a, int past, int future)
 {
